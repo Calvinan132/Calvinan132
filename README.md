@@ -4,9 +4,6 @@
 
 - 🎓 I’m currently studying at **the University of Information Technology (UIT-VNUHCM)**.
 - 🌱 I’m currently learning and improving my skills in **Full-stack Web Development**.
-- 📫 How to reach me: **trinhhoaian2303@gmail.com**
-
-<br/>
 <h1></h1>
 
 <h3 align="left">📬 Connect with me:</h3>
