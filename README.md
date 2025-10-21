@@ -12,24 +12,7 @@
 <a href="https://www.facebook.com/an.uit.k6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="an.uit.k6" height="30" width="40" /></a>
 <a href="mailto:trinhhoaian2303@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="trinhhoaian2303@gmail.com" height="30" width="40" /></a>
 </p>
-
-<br/>
 <h1></h1>
-
-### :zap: GitHub Stats
-<table>
-<tr>
-  <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=Calvinan132&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calvinan132&layout=compact&show_icons=true&hide_border=true" />
-  </td>
-  <td width="52%"><img alt="gif" align="right" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif"/></td>
-</tr>
-<table>
-
-<br/>
-
-<br/>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
@@ -45,5 +28,20 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 </p>
+<h1></h1>
+
+### :zap: GitHub Stats
+<table>
+<tr>
+  <td width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=Calvinan132&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calvinan132&layout=compact&show_icons=true&hide_border=true" />
+  </td>
+  <td width="52%"><img alt="gif" align="right" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif"/></td>
+</tr>
+<table>
 
 <br/>
+
+<h1 align="center" >Thank you for watching <3</h1>
+
