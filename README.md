@@ -1,9 +1,21 @@
-<h1 align="center">Hi 👋, I'm Hoài An</h1>
-<h3 align="center">A Web Developer from Vietnam!</h3>
+<h1 align="center">Hi, I'm Hoài An <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> | A Web Developer from Vietnam!</h1>
+
 
 - 🎓 I’m currently studying at **the University of Information Technology (UIT-VNUHCM)**.
 - 🌱 I’m currently learning and improving my skills in **Full-stack Web Development**.
 - 📫 How to reach me: **trinhhoaian2303@gmail.com**
+
+### :zap: GitHub Stats
+
+<table>
+<tr>
+  <td width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=Calvinan132&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calvinan132&layout=compact&show_icons=true&hide_border=true" />
+  </td>
+  <td width="52%"><img alt="gif" align="right" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif"/></td>
+</tr>
+<table>
 
 <br/>
 
@@ -31,13 +43,3 @@
 </p>
 
 <br/>
-
-<h3 align="left">📊 My GitHub Stats:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Calvinan132&show_icons=true&theme=dracula&rank_icon=github" alt="Calvinan132" />
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calvinan132&layout=compact&theme=dracula" alt="Calvinan132" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Calvinan132&theme=dark" alt="Calvinan132" />
-</p>
