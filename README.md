@@ -5,12 +5,20 @@
 
 - 🎓 I’m currently studying at **the University of Information Technology (UIT-VNUHCM)**.
 - 🌱 I’m currently learning and improving my skills in **Full-stack Web Development**.
+
 <h1></h1>
 
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/an.uit.k6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="an.uit.k6" height="30" width="40" /></a>
 <a href="mailto:trinhhoaian2303@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="trinhhoaian2303@gmail.com" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">📄 My Resume (CV):</h3>
+<p align="left">
+  <a href="https://www.topcv.vn/xem-cv/AFVWBlJXUgBTBQNUA10OUQQBBglRAlAFAAkCVQd2ce" target="_blank">
+    <img alt="My CV" src="https://img.shields.io/badge/View_My_CV-TopCV-00b14f?style=for-the-badge&logo=topcv&logoColor=white"/>
+  </a>
 </p>
 <h1></h1>
 
